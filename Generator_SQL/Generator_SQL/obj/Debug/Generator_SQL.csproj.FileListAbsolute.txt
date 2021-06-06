@@ -1,0 +1,132 @@
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csprojAssemblyReference.cache
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Form1.resources
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Properties.Resources.resources
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.GenerateResource.cache
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe.config
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.pdb
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CopyComplete
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.exe
+C:\Users\Lolka\source\repos\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.pdb
+G:\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe.config
+G:\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe
+G:\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.pdb
+G:\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.dll
+G:\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.xml
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csprojAssemblyReference.cache
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Form1.resources
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Properties.Resources.resources
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.GenerateResource.cache
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CoreCompileInputs.cache
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CopyComplete
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.exe
+G:\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.pdb
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe.config
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.pdb
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csprojAssemblyReference.cache
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Form1.resources
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Properties.Resources.resources
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.GenerateResource.cache
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CopyComplete
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.exe
+C:\Users\Lolka\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.pdb
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe.config
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.exe
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Generator_SQL.pdb
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.dll
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\Npgsql.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Buffers.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Memory.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Text.Json.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Channels.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\bin\Debug\System.ValueTuple.xml
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csprojAssemblyReference.cache
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Form1.resources
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.Properties.Resources.resources
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.GenerateResource.cache
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.csproj.CopyComplete
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.exe
+C:\Users\Даня Маравак\Desktop\Generator_SQL\Generator_SQL\obj\Debug\Generator_SQL.pdb
